@@ -4,19 +4,19 @@ title: Instructions
 ---
 
 # Instructions
-How to create a folder on a windows computer
+How to create a folder on a windows computer.
 
-Required Materials: A computer running windows, a mouse, or trackpad
+Required Materials: A computer running windows, a mouse, or trackpad.
 
-1. Open file explorer by clicking the folder icon in the taskbar or hitting the windows button and searching windows
+1. Open file explorer by clicking the folder icon in the taskbar or hitting the windows button and searching windows.
   
 Figure 1 - What the icon of file explorer will look look as well as showing what it will look like when searching for using the windows key.(Darryan Torres)
 
 <img width="689" height="302" alt="Screenshot 2026-03-10 164156" src="https://github.com/user-attachments/assets/bb4d4dfc-bad5-4f29-b381-4612979cd3a6" />
 
-2. Go to the location where you want to create a new folder
-3. Right click on an open space in the window
-4. Hover over the "New" option in the menu
+2. Go to the location where you want to create a new folder.
+3. Right click on an open space in the window.
+4. Hover over the "New" option in the menu.
 
 Figure 2 - How it should look when right clicking in an open space to see the "new" menu choice and the "folder" submenu choice.(Darryan Torres)
 
