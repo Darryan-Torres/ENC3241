@@ -22,9 +22,9 @@ Figure 2 - How it should look when right clicking in an open space to see the "n
 
    <img width="593" height="538" alt="Screenshot 2026-03-10 164455" src="https://github.com/user-attachments/assets/95ff9bfc-f20c-4d2e-9b57-76d0c56da673" />
 
-7. Click "Folder" in the submenu
-8. Type a name for the new folder
-9. Press the "Enter" key to save the folder
+5. Click "Folder" in the submenu
+6. Type a name for the new folder
+7. Press the "Enter" key to save the folder
   
 Figure 3 - The creation and naming of the folder "instructions".(Darryan Torres)
 <img width="543" height="24" alt="Screenshot 2026-03-10 at 4 48 42 PM" src="https://github.com/user-attachments/assets/d5f5ed01-0109-48ce-9ab4-6433be0cb22f" />
