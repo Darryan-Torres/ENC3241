@@ -7,7 +7,7 @@ title: Instructions
 How to create a file on a windows computer.
 
 
-Step 1. Press the the windows button and searching file explorer.
+Step 1. Press the the windows button and search file explorer.
   
 <img width="800" height="800" alt="Screenshot 2026-03-24 085945" src="https://github.com/user-attachments/assets/f9d18777-985c-4b95-b29c-b91abc080ae7" />
 
