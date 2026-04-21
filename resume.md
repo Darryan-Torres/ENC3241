@@ -5,4 +5,5 @@ title: Resume
 
 # Resume
 
-[Darryan_Torres_Resume.3.1.pdf](https://github.com/user-attachments/files/26945217/Darryan_Torres_Resume.3.1.pdf)
+Darryan_Torres_Resume.3.1.pdf
+[View My Resume (PDF)](./Darryan_Torres_Resume.3.1.pdf)
