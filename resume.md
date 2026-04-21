@@ -10,6 +10,9 @@ DARRYAN TORRES
 
 da618889@ucf.edu | 123-456-7890 | Orlando, FL 32803
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Professional Summary
 
 Developer in Python with a creative approach to project development, including a 2D tower defense game. Strong teamwork and time management skills enhance the ability to deliver engaging and efficient projects.
