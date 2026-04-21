@@ -6,7 +6,9 @@ title: Proposal
 # Proposal
 
  Investigating student study behavior and the effectiveness of study tools
-Darryan Torres 		                                            Department: Computer Science
+
+Darryan Torres 		                                                                                                    
+Department: Computer Science                      
                                                 
 Proposal:
 	Time management and strong studying strategies are essential for success when it comes to test taking and overall course work, especially when a student is required to balance school, a job and personal issues. While there are many digital planners, and scheduling tools readily available, many find it to be difficult to follow and stay consistent with study routines. Many of these tools also lack the ability to adapt and do not account for other important factors that can be different per student such as the person’s individual learning behavior, procrastination patterns, and their work loads.
