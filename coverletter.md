@@ -31,6 +31,7 @@ I welcome the opportunity to further discuss my skills and experience and how I 
 
 Sincerely,
 
+<img width="259" height="101" alt="Screenshot 2026-04-21 at 3 51 43 PM" src="https://github.com/user-attachments/assets/7093e4af-1abf-4b3e-99cd-b0ffe81441ce" />
 
 Darryan Torres
 
