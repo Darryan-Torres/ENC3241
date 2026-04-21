@@ -23,6 +23,7 @@ I am eager to contribute to Leidos as I am also committed to professionalism, in
 I welcome the opportunity to further discuss my skills and experience and how I would be a great benefit to the success of your team. You can contact me through my email da618889@ucf.edu or at my phone number 123-456-7890. Thank you for your time and consideration.
 
 Sincerely,
+
 <img width="259" height="101" alt="Screenshot 2026-04-21 at 3 51 43 PM" src="https://github.com/user-attachments/assets/708e0da1-78da-4296-b23b-310dbc5188bd" />
 
 Darryan Torres
