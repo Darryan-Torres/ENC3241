@@ -48,7 +48,7 @@ University of Central Florida, UCF
 Student(Academic Project)
 
 10/2025 - 11/2025
--Developed 2D tower defense game with team, incorporating basic controls
+ - Developed 2D tower defense game with team, incorporating basic controls
 along with health, cooldown, and damage systems using Python.
 
 University of Central Florida, UCF
@@ -56,7 +56,7 @@ University of Central Florida, UCF
 Student(Academic Project)
 
 09/2025 - 09/2025
--Using turtle inside of Python created a logo with a UCF mascot similar to the
+ - Using turtle inside of Python created a logo with a UCF mascot similar to the
 UCF homecoming logos.
 
 The Altar Church | Orlando, FL
